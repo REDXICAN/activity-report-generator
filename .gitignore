@@ -1,0 +1,68 @@
+# Environment variables
+.env
+.env.local
+
+# Google credentials
+credentials.json
+token.json
+token.pickle
+*.pickle
+
+# GitHub tokens
+github_token.txt
+
+# WhatsApp exports
+whatsapp_exports/
+*.txt
+
+# Output reports
+*.xlsx
+*.docx
+!Formato reporte de Actividades.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
