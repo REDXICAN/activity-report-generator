@@ -13,7 +13,8 @@ github_token.txt
 
 # WhatsApp exports
 whatsapp_exports/
-*.txt
+WhatsApp*.txt
+chat*.txt
 
 # Output reports
 *.xlsx
